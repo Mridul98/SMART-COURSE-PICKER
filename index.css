@@ -1,0 +1,79 @@
+.black_bar{
+
+    margin: auto;
+
+
+    height:75px;
+    background-color: black;
+}
+#white_header{
+    color: white;
+    padding-top:20px ;
+    padding-left: 10px;
+    font-family: 'Roboto Mono', monospace;
+    
+}
+#white_footer{
+    color: white;
+    padding-top:20px ;
+    padding-left: 10px;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    
+}
+.cover{
+    background-image: url(/bg_banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: center;
+    width:100%;
+}
+
+.main-content{
+
+   margin: auto;
+   
+}
+.browse{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+   
+font-family: 'Hanalei Fill', cursive;
+
+}
+.centered_text{
+    text-align: center;
+}
+.container-fluid{
+    margin: auto;
+}
+.row{
+    margin:auto;
+    padding:auto;
+}
+.footer{
+    margin-top: 100px;
+
+    height:200px;
+    background-image: url(/ddg-bg.jpg);
+   
+
+    
+}
+
+.btn{
+    
+    position: static;
+}
+.footerNotes{
+    text-align: center;
+    color: aliceblue;
+    padding-top:50px;
+    padding-left: 100px;
+    font-family: 'Roboto Mono', monospace;
+
+  
+
+
+}
